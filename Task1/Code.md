@@ -23,8 +23,8 @@ The University Scholarship Allocation System evaluates students based on aggrega
 8. If no students qualify, display a suitable message.
 9. Stop the program.
 
-## 3. Flowchart using 
-'''marmaine
+## 3. Flowchart 
+
 flowchart TD
     A([Start]) --> B[/Enter student details/]
     B --> C{Meet all criteria?}
@@ -36,7 +36,6 @@ flowchart TD
     F -- No --> G[Rank students]
     G --> H[Display results]
     H --> I([Stop])
-'''
 
 ## 5. Sample Input
 
