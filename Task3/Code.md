@@ -20,7 +20,7 @@
 13. Stop the program.
 
 ## 3. Flowchart 
-```mermide
+```mermaid
 flowchart TD
     A([Start]) --> B[/Input vehicle and entry/exit times/]
     B --> C{Valid inputs?}
