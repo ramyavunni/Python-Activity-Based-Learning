@@ -1,21 +1,8 @@
 # Smart Parking Fee Management System in Python
 
 ## 1. Problem Statement
-
-The Smart Parking Fee Management System is a Python program designed to calculate parking charges based on vehicle entry and exit times, vehicle categories, overnight parking, daily parking limits, and penalty conditions.
-
-The program validates the time inputs to ensure that the exit time is later than the entry time. It calculates the total parking duration, applies the appropriate hourly rate for the selected vehicle category, adds penalties when applicable, and ensures that the parking fee does not exceed the daily maximum limit.
-
-Objectives:
-
-- Accept vehicle category and entry/exit times.
-- Validate time inputs in `HH:MM` format.
-- Calculate parking duration, including overnight parking.
-- Apply different hourly rates for cars, bikes, and trucks.
-- Apply overnight and late-exit penalties.
-- Enforce a daily maximum parking fee.
-- Display the final parking bill.
-
+ Smart Parking Fee Management: Calculate charges from entry and exit times, vehicle categories, overnight parking, daily limits, and penalty conditions while validating time inputs. 
+ 
 ## 2. Algorithm
 
 1. Start the program.
@@ -33,7 +20,7 @@ Objectives:
 13. Stop the program.
 
 ## 3. Flowchart 
-```mermaide
+```mermide
 flowchart TD
     A([Start]) --> B[/Input vehicle and entry/exit times/]
     B --> C{Valid inputs?}
