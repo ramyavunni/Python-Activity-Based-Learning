@@ -1,4 +1,4 @@
-# 5. Smart Parking Fee Management System
+# Smart Parking Fee Management System
 
 ## 1. Problem Statement
 
