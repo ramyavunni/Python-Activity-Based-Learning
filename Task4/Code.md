@@ -18,8 +18,7 @@ To develop a Python program that calculates parking fees based on vehicle catego
 
 ## 3. Flowchart 
 ```Mermaid
-
-flowchart TD
+ flowchart TD
     A([Start]) --> B[/Enter vehicle and times/]
     B --> C{Valid inputs?}
     C -- No --> D[Display Error]
