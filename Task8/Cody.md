@@ -28,7 +28,7 @@ flowchart TD
     F --> G[/Display production report/]
     G --> H([Stop])
 
-
+```
 ## 5. Sample Input
 
 Available raw material: 350
