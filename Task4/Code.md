@@ -1,4 +1,4 @@
-# 83. Food Supply Chain Stock Reconciliation Using Python
+#  Food Supply Chain Stock Reconciliation Using Python
 
 ## 1. Problem Statement
 
@@ -47,7 +47,6 @@ flowchart TD
 
 ## 5. Sample Input
 
-```
 Enter number of locations: 2
 
 Location 1
