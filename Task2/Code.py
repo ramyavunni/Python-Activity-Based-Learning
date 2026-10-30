@@ -6,8 +6,6 @@ overtime = float(input("Enter overtime pay: Rs. "))
 incentives = float(input("Enter incentives: Rs. "))
 
 gross = basic + allowances + overtime + incentives
-
-# Progressive deductions
 if gross <= 20000:
     deduction = gross * 0.05
 elif gross <= 40000:
